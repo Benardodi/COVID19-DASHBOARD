@@ -1,5 +1,5 @@
 # COVID19-DASHBOARD
-A dashboard made with excel that constantly updates that focuses on the top 5 countries and bottom 5 countries that has an updated confirmed number of cases
+A dashboard made with excel that is up to date and  focuses on the top 5 countries and bottom 5 countries by number of confirmed cases
 
  It includes the following feautures
 
